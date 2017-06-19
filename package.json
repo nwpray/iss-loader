@@ -1,0 +1,22 @@
+{
+  "name": "iss-loader",
+  "version": "0.0.1",
+  "description": "A webpack loader for improved style sheets",
+  "main": "iss-loader.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nwpray/iss-loader.git"
+  },
+  "author": "Nick Pray",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nwpray/iss-loader/issues"
+  },
+  "homepage": "https://github.com/nwpray/iss-loader#readme",
+  "dependencies": {
+    "css": "^2.2.1"
+  }
+}
